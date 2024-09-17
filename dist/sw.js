@@ -15,6 +15,7 @@
             'guanyin.png',
             'guanyin512.png',
             'guanyin.manifest',
+            'qrcode.min.js',
             'offline.html'
         ]);
     };
