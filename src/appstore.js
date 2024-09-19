@@ -5,9 +5,9 @@ _ACC23.CacheName='v1::guanyin',
 _ACC23.AppVer='24.9.16';
 _ACC23.AppName='guanyin'
 _ACC23.AppTitle='觀音系列'
-_ACC23.allptks=['guanyin','guanyin-sk','guanyin-en','guanyin-bh','guanyin-pl'];
-_ACC23.selectedptks=['guanyin','guanyin-sk','guanyin-bh']
-_ACC23.activeptk='guanyin'
+_ACC23.allptks=['guanyin','guanyin-sk','guanyin-en','guanyin-bh','guanyin-pl','dhammahall'];
+_ACC23.selectedptks=['guanyin','guanyin-sk','guanyin-bh','dhammahall']
+_ACC23.activeptk='guanyin';
 _ACC23.ptkinfo={
     'guanyin':"原文",
     'guanyin-en':"英文",
