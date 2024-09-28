@@ -13,7 +13,8 @@ _ACC23.ptkinfo={
     'guanyin-en':"英文",
     'guanyin-pl':"巴利文",
     'guanyin-sk':"梵文",
-    'guanyin-bh':"白話文"
+    'guanyin-bh':"白話文",
+    'dhammahall':"佛學辭典"
 }
 _ACC23.favorites=[];
 _ACC23.MAXFAVORITE=100;
