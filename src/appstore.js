@@ -6,6 +6,7 @@ _ACC23.AppVer='24.10.1';
 _ACC23.AppName='guanyin'
 _ACC23.AppTitle='觀音系列'
 _ACC23.allptks=['guanyin','guanyin-sk','guanyin-en','guanyin-bh','guanyin-pl','dhammahall'];
+_ACC23.transclusiondict='dhammahall';
 _ACC23.selectedptks=['guanyin','guanyin-sk','guanyin-bh','dhammahall']
 _ACC23.activeptk='guanyin';
 _ACC23.ptkinfo={
